@@ -1,8 +1,9 @@
 # w-lighter_model-server
 
-> **w.LiGHTER**의 **MODEL 서버(FastAPI)** 저장소입니다. AI 번역 파이프라인과 창작 지원 기능(현지화 가이드·표지 이미지·캐릭터 설정집/관계도)의 모델 추론을 전담합니다.   
-> 이 저장소는 **팀 프로젝트([원본](https://github.com/IsekaiPD/w-lighter_model-server))를 포트폴리오용으로 재구성·확장해 개인적으로 관리하는 미러**입니다.   
-> 프로젝트 전체 소개(기획 배경·화면·비즈니스 모델)는 팀 저장소를 참고해 주세요 → [SKN24-FINAL-5Team](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN24-FINAL-5Team).
+> **w.LiGHTER**의 **MODEL 서버(FastAPI)** 레포입니다.   
+> AI 번역 파이프라인과 창작 지원 기능(현지화 가이드·표지 이미지·캐릭터 설정집/관계도)의 모델 추론을 전담합니다.   
+> 이 레포는 **팀 프로젝트([원본](https://github.com/IsekaiPD/w-lighter_model-server))를 포트폴리오용으로 재구성·확장해 개인적으로 관리하는 미러**입니다.   
+> 프로젝트 전체 소개(기획 배경·화면·비즈니스 모델)는 팀 레포를 참고해 주세요 → [SKN24-FINAL-5Team](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN24-FINAL-5Team).
 
 ---
 
